@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Generics {
+public class ArrayListAndGenerics {
     public static void main(String[] args) {
         // ArrayList
         ArrayList<String> num = new ArrayList<>(Arrays.asList("1", "2", "3"));
