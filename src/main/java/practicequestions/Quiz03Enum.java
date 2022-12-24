@@ -1,3 +1,5 @@
+package practicequestions;
+
 import java.util.HashMap;
 
 public class Quiz03Enum {

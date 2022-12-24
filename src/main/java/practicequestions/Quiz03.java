@@ -1,3 +1,5 @@
+package practicequestions;
+
 import java.util.*;
 
 public class Quiz03 {

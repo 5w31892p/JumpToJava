@@ -1,3 +1,5 @@
+package datatype;
+
 import javax.jws.soap.SOAPBinding;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
